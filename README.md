@@ -12,6 +12,13 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, tech enth
 
 ---
 
+### 🌐 Coding Profiles
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/arulselvan02)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/2004arulselvan)
+
+---
+
 ### 🚀 Tech Stack
 
 - 💻 Java, Python, C, JDBC
@@ -22,17 +29,11 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, tech enth
 
 ---
 
-### 📈 GitHub Stats
-
-![Arulselvan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArulselvanM&show_icons=true&theme=radical)
-
----
-
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arulselvan-m/)
 - 🧠 [LeetCode](https://leetcode.com/Arulselvan_M/)
-- 📧 Email: arulselvanxxx@gmail.com *(replace with your real email if you'd like)*
+- 📧 Email: 2004arulselvan@gmail.com
 
 ---
 
