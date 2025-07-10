@@ -29,6 +29,8 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, tech enth
 
 ---
 
+
+
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arulselvan-m/)
@@ -36,5 +38,8 @@ Welcome to my GitHub profile! I'm a passionate Java backend developer, tech enth
 - 📧 Email: 2004arulselvan@gmail.com
 
 ---
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" width="50" height="50" />
+</div>
 
 ✨ *Thanks for visiting my profile! Let's grow together as developers.* 🚀
