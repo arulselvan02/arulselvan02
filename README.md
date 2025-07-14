@@ -4,9 +4,13 @@
 
 ### 💻 LeetCode Stats
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Arulselvan_M/)
-
-![LeetCode Contest Stats](https://leetcard.jacoblin.cool/Arulselvan_M?ext=contest)
+<p align="center">
+  <a href="https://leetcode.com/Arulselvan_M/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Profile"/>
+  </a>
+  <br />
+  <img src="https://leetcard.jacoblin.cool/Arulselvan_M?ext=contest" alt="LeetCode Contest Stats"/>
+</p>
 
 ---
 
